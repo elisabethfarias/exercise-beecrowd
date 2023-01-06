@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-DS_Store/
-idea/
-out/production/untitled1
+.DS_Store/
+.idea/
+.out/production/untitled1
