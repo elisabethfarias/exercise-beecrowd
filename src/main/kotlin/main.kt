@@ -2,7 +2,7 @@ import java.lang.Math.abs
 
 fun main() {
 
-   println(gastoCombustivel( 2, 92))
+   println(cedulas(576))
 }
 
 
